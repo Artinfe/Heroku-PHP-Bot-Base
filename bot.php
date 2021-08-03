@@ -24,7 +24,7 @@ date_default_timezone_set('Asia/Tehran');
 
 error_reporting(0);
 
-define('API_KEY','1755620035:AAEOoNPvbMNmobrg9vzsk1TZP5KOCc0wlt0'); // توکن
+define('API_KEY','953902782:AAGPf1gS9yW4FV_YadOXHP69EvRSyxowozQ'); // توکن
 
 //━━//
 
